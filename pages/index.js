@@ -19,7 +19,7 @@ class Index extends Component {
       {/* Rank your 5 favorite activities from this 
           list: https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6 */}  
         <ul className="collection with-header">
-          <li className="collection-header"><h4>My Top 5 Support Activities</h4></li>
+          <li className="collection-header"><h4>My Top 5 Support Activities 'test'</h4></li>
           <li className="collection-item">5. Respond to 60+ support requests via email or chat every day</li>
           <li className="collection-item">4. Debug a customer's build using a programming language and framework that you've never seen before</li>
           <li className="collection-item">3. Write and maintain documentation for our software and blog posts for our website.</li>
